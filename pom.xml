@@ -9,6 +9,7 @@
   <name>webapp Maven Webapp</name>
   <url>http://maven.apache.org</url> 
   <h1> home </h1>
+  <h2> search </h2>
 
   <dependencies>
     <dependency>
