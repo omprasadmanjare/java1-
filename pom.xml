@@ -13,8 +13,8 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
+                <groupId>nexu-java1</groupId>
+                <artifactId>webapp</artifactId>
                 <version>3.4.0</version>
             </plugin>
         </plugins>
